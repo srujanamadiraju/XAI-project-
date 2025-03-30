@@ -43,5 +43,5 @@ Contributions are welcome! Feel free to fork this repo and submit pull requests.
 
 
 ---
-🔗 **Author**: [Srujana](https://github.com/your-username)  
+🔗 **Author**: [Srujana](https://github.com/srujanamadiraju) 
 📧 Contact: 2004srujana@gmail.com
